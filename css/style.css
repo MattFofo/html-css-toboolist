@@ -38,15 +38,25 @@ header, .container-bottoni, .container-content{
 }
 
 button{
-    padding: 5px;
+    padding: 8px;
     margin-top: 15px;
     margin-bottom: 10px;
-    border-radius: 10px;
-    background-color: #2596ff;
+    border-radius: 8px; 
+    border-style: none;
 }
 
 .add-task{
+    background-color: #2596ff;
+    color: white;
     margin-left: 5%;
+    border: 0.5px solid #2596ff;
+}
+
+.add-section{
+    background-color: white;
+    color: lightgrey;
+    border: 0.5px solid lightgrey;
+
 }
 
 .container-content{
