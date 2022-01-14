@@ -26,3 +26,20 @@ header{
     display: inline-block;
     
 }
+
+.container-bottoni{
+    margin: 50px 20%;
+    background-color: white;
+
+}
+
+button{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.add-task{
+    margin-left: 25px;
+}
