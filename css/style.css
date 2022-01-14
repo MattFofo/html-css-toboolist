@@ -42,6 +42,7 @@ button{
     margin-top: 10px;
     margin-bottom: 5px;
     border-radius: 10px;
+    background-color: #2596ff;
 }
 
 .add-task{
@@ -74,11 +75,50 @@ li{
     padding: 2px;
 }
 
-.tag-editorial{
+.tags{
     font-size: 0.8rem;
-    background-color: lightskyblue;
     padding: 5px;
     color: white;
     border-radius: 10px;
+
+
+}
+
+.tag-editorial{
+    
+    background-color: #2596ff;
+
+}
+
+.tag-Q1_goals{
+   
+    background-color: #8a6ae4;
+   
+}
+
+.tag-recruiting{
+   
+    background-color: #0f9250;
+   
+
+}
+
+.tag-mobile{
+    
+    background-color: #ff4500;
+   
+}
+
+.tag-website{
+    
+    background-color: #f08395;
+    
+
+}
+
+.tag-sales{
+   
+    background-color: #9aeb20;
+    
 
 }
