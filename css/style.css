@@ -67,3 +67,18 @@ li{
     margin-left: 25px;
 }
 
+.checkmark{
+    color: green;
+    border: 2px solid green;
+    border-radius: 20px;
+    padding: 2px;
+}
+
+.tag-editorial{
+    font-size: 0.8rem;
+    background-color: lightskyblue;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+
+}
