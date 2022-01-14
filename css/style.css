@@ -8,7 +8,7 @@ html{
     background-color: lightgray;
 }
 
-header{
+header, .container-bottoni, .container-content{
     background-color: white;
     
 }
@@ -29,7 +29,7 @@ header{
 
 .container-bottoni{
     margin: 50px 20%;
-    background-color: white;
+    margin-bottom: 2px;
 
 }
 
@@ -41,5 +41,24 @@ button{
 }
 
 .add-task{
+    margin-left: 25px;
+}
+
+.container-content{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.titolo-lista{
+    padding-top: 20px;
+    margin-left: 25px;
+    
+}
+
+li{
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 25px;
 }
