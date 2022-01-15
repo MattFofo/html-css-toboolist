@@ -6,7 +6,7 @@
 
 html{
     background-color: lightgray;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header, .container-bottoni, .container-content{
@@ -34,6 +34,7 @@ header, .container-bottoni, .container-content{
 .container-bottoni{
     margin: 50px 20%;
     margin-bottom: 2px;
+    border-radius: 5px 5px 0px 0px;
 
 }
 
@@ -82,10 +83,11 @@ li{
     margin-bottom: 10px;
     margin-left: 25px;
     line-height: 2.5;
+    font-weight: 500;
 }
 
 .checkmark, .cross{
-    border-radius: 20px;
+    border-radius: 50%;
     padding: 2px;
 
 }
