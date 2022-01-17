@@ -43,7 +43,6 @@ button{
     margin-top: 15px;
     margin-bottom: 10px;
     border-radius: 8px; 
-    border-style: none;
 }
 
 .add-task{
@@ -75,7 +74,7 @@ button{
 }
 
 .arrow{
-    font-size: 0.8em;
+    font-size: 0.8rem;
 }
 
 li{
