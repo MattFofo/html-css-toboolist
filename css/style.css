@@ -9,19 +9,18 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 
+header{
+    padding: .6em;
+}
+
+
 header, .container-bottoni, .container-content{
     background-color: white;
     
 }
 
 .img-logo-header{
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    line-height: 1;
     vertical-align: middle;
-
     
 }
 
