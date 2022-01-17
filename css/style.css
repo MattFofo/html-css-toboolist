@@ -31,7 +31,8 @@ header, .container-bottoni, .container-content{
 }
 
 .container-bottoni{
-    margin: 50px 20%;
+    max-width: 1200px;
+    margin: 50px auto;
     margin-bottom: 2px;
     border-radius: 5px 5px 0px 0px;
 
@@ -60,8 +61,8 @@ button{
 }
 
 .container-content{
-    margin-left: 20%;
-    margin-right: 20%;
+    max-width: 1200px;
+    margin: 0 auto;
     padding-left: 40px;
     border-radius: 0px 0px 5px 5px;
 
